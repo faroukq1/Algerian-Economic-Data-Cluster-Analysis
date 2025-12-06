@@ -3,6 +3,7 @@ data/row/*.xls
 data/row/*.xlsx
 data/row/*.csv
 data/preprocessed/*.csv
+data/cleaned/*.csv
 
 # Python
 __pycache__/
