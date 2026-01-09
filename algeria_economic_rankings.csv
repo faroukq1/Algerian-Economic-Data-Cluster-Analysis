@@ -1,0 +1,66 @@
+Indicator,Algeria_Value,Percentile,Countries_Below,Total_Countries
+"Gross national income, Atlas method_$ billions_2024",249.052,76.42585551330798,201,263
+"Gross national income per capita, Atlas method_$_2024",5320.0,31.55893536121673,83,263
+Purchasing power parity gross national income_$ billions_2024,806.013,82.12927756653993,216,263
+Purchasing power parity gross national income_per capita_$_2024,17220.0,36.12167300380228,95,263
+Gross domestic product_% growth_2024,3.29999999939609,58.55513307984791,154,263
+Gross domestic product_per capita_% growth_2024,1.86551988917833,36.88212927756654,97,263
+GDP_Growth_Gross domestic product_average annual real growth (%)_2010-2020,2.3,34.22053231939163,90,263
+GDP_Growth_Gross domestic product_average annual real growth (%)_2020-2024,3.7,37.6425855513308,99,263
+GDP_Growth_Agriculture_average annual real growth (%)_2010-2020,4.2,87.45247148288973,230,263
+GDP_Growth_Agriculture_average annual real growth (%)_2020-2024,2.2,65.77946768060836,173,263
+GDP_Growth_Industry_average annual real growth (%)_2010-2020,1.0,22.433460076045627,59,263
+GDP_Growth_Industry_average annual real growth (%)_2020-2024,5.1,80.6083650190114,212,263
+GDP_Growth_Manufacturing_average annual real growth (%)_2010-2020,4.6,84.4106463878327,222,263
+GDP_Growth_Manufacturing_average annual real growth (%)_2020-2024,7.7,92.77566539923954,244,263
+GDP_Growth_Services_average annual real growth (%)_2010-2020,3.5,68.06083650190115,179,263
+GDP_Growth_Services_average annual real growth (%)_2020-2024,3.7,26.23574144486692,69,263
+Structure_Value_Gross domestic product_$ billions_2015,187.5,76.80608365019012,202,263
+Structure_Value_Gross domestic product_$ billions_2024,263.6,76.80608365019012,202,263
+Structure_Value_Agriculture_% of GDP_2015,10.5,71.10266159695817,187,263
+Structure_Value_Agriculture_% of GDP_2024,13.1,76.42585551330798,201,263
+Structure_Value_Industry_% of GDP_2015,32.8,83.26996197718631,219,263
+Structure_Value_Industry_% of GDP_2024,37.8,90.49429657794677,238,263
+Structure_Value_Manufacturing_% of GDP_2015,7.1,21.673003802281368,57,263
+Structure_Value_Manufacturing_% of GDP_2024,9.3,28.13688212927757,74,263
+Structure_Value_Services_% of GDP_2015,52.1,26.61596958174905,70,263
+Structure_Value_Services_% of GDP_2024,45.6,13.688212927756654,36,263
+Structure_Manufacturing_Manufacturing value added_$ billions_2010,16.7,75.66539923954373,199,263
+Structure_Manufacturing_Manufacturing value added_$ billions_2022,23.0,77.18631178707224,203,263
+"Structure_Manufacturing_Food, beverages and tobacco_%of total_2010",21.45,16.34980988593156,43,263
+"Structure_Manufacturing_Food, beverages and tobacco_%of total_2022",17.8,15.209125475285171,40,263
+Structure_Manufacturing_Textiles and clothing_%of total_2010,4.1,15.96958174904943,42,263
+Structure_Manufacturing_Textiles and clothing_%of total_2022,2.6,14.44866920152091,38,263
+Structure_Manufacturing_Machinery and transport equipment_%of total_2010,13.7,15.209125475285171,40,263
+Structure_Manufacturing_Machinery and transport equipment_%of total_2022,15.05,14.44866920152091,38,263
+Structure_Manufacturing_Chemicals_%of total_2010,3.45,15.209125475285171,40,263
+Structure_Manufacturing_Chemicals_%of total_2022,3.65,14.44866920152091,38,263
+Structure_Manufacturing_Other manufacturing_%of total_2010,49.6,16.34980988593156,43,263
+Structure_Manufacturing_Other manufacturing_%of total_2022,54.4,15.209125475285171,40,263
+Structure_Exports_Merchandise exports_$ millions_2015,34668.0,75.66539923954373,199,263
+Structure_Exports_Merchandise exports_$ millions_2023,55555.0,76.04562737642586,200,263
+Structure_Exports_Food_% of total_2015,0.7,2.6615969581749046,7,263
+Structure_Exports_Food_% of total_2023,13.7,30.038022813688215,79,263
+Structure_Exports_Agricultural raw materials_% of total_2015,0.0,0.0,0,263
+Structure_Exports_Agricultural raw materials_% of total_2023,0.9,30.418250950570343,80,263
+Structure_Exports_Fuels_% of total_2015,95.8,99.23954372623575,261,263
+Structure_Exports_Fuels_% of total_2023,5.3,30.038022813688215,79,263
+Structure_Exports_Ores and metals_% of total_2015,0.3,7.224334600760455,19,263
+Structure_Exports_Ores and metals_% of total_2023,3.4,30.418250950570343,80,263
+Structure_Exports_Manufactures_% of total_2015,3.1,4.562737642585551,12,263
+Structure_Exports_Manufactures_% of total_2023,40.5,30.798479087452474,81,263
+"Unemployment_Unemployment, male (% of male labor force) (modeled ILO estimate)_2015",10.028,80.22813688212928,211,263
+"Unemployment_Unemployment, male (% of male labor force) (modeled ILO estimate)_2021",11.638,86.69201520912547,228,263
+"Unemployment_Unemployment, female (% of female labor force) (modeled ILO estimate)_2015",16.741,87.07224334600761,229,263
+"Unemployment_Unemployment, female (% of female labor force) (modeled ILO estimate)_2021",23.351,95.05703422053232,250,263
+"Unemployment_Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)_2015",27.396,86.31178707224335,227,263
+"Unemployment_Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)_2021",30.659,89.35361216730038,235,263
+"Unemployment_Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)_2015",45.216,94.67680608365019,249,263
+"Unemployment_Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)_2021",51.12,96.57794676806084,254,263
+Unemployment_Unemployment with basic education (% of total labor force with basic education)_2015-21,8.39308850195058,36.88212927756654,97,263
+Unemployment_Unemployment with intermediate education (% of total labor force with intermediate education)_2015-21,8.36570076635626,36.88212927756654,97,263
+Unemployment_Unemployment with advanced education (% of total labor force with advanced education)_2015-21,5.944,36.88212927756654,97,263
+Poverty_IntlLine1_International poverty lines_Population below $3.00 a day_%,2011.0,3.041825095057034,8,263
+Poverty_IntlLine1_International poverty lines_Population below $3.00 a day_%.1,0.0,0.0,0,263
+Poverty_IntlLine1_International poverty lines_Population below $4.20 a day_%,4.7,27.756653992395435,73,263
+Poverty_IntlLine1_International poverty lines_Population below $8.30 a day_%,41.8,69.96197718631178,184,263
